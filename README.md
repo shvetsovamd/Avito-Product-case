@@ -3,8 +3,8 @@
 
 Задача - придумать и исследовать продуктовую гипотезу, основываясь на данных сервиса Авито Подработка
 
-Подробное описание кейса дано в файле product_case_presentation.pdf
-Подробное описание данных дано в файле product_case_description.pdf
-Решение предоставлено в файле avito_case.ipynb
-Сырые данные предоставлены в файле dataset_avito.csv
-Результаты выгружены в папку avito_case_final_results
+- Подробное описание кейса дано в файле product_case_presentation.pdf
+- Подробное описание данных дано в файле product_case_description.pdf
+- Решение предоставлено в файле avito_case.ipynb
+- Сырые данные предоставлены в файле dataset_avito.csv
+- Результаты выгружены в папку avito_case_final_results
