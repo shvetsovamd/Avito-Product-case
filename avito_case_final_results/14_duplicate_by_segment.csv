@@ -1,0 +1,3 @@
+interest_segment,users,rows_in_duplicate_groups,rows_removed_by_drop_duplicates,booking_cr,share_in_duplicate_groups,share_removed_by_drop_duplicates
+Есть признаки интереса к подработке,15562,0,0,0.12877522169386968,0.0,0.0
+Нет признаков интереса к подработке,9766,3394,2455,0.03747696088470203,0.34753225476141714,0.25138234691787836
